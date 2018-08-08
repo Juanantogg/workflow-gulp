@@ -1,0 +1,40 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Ejemplo de desarrollo de un workflow front-end con gulp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:Juananto11/workflow"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "gulp",
+    "sass",
+    "pug"
+  ],
+  "author": "Juan A. García",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "git@github.com:Juananto11/workflow/issues"
+  },
+  "homepage": "git@github.com:Juananto11/workflow/workflow#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "browser-sync": "^2.23.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-babel": "^7.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.3"
+  }
+}
